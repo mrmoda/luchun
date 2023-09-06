@@ -4,7 +4,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:428px;
+  width:1284px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -21,16 +21,16 @@
   position:fixed;
   left:0px;
   top:0px;
-  width:428px;
-  height:926px;
+  width:1284px;
+  height:2778px;
 }
 #u0_state0 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:428px;
-  height:926px;
+  width:1284px;
+  height:2778px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -56,16 +56,16 @@
   position:absolute;
   left:-16px;
   top:-7px;
-  width:80px;
-  height:75px;
+  width:201px;
+  height:183px;
 }
 #u1 {
   border-width:0px;
   position:absolute;
-  left:102px;
-  top:407px;
-  width:48px;
-  height:43px;
+  left:248px;
+  top:1112px;
+  width:169px;
+  height:151px;
   display:flex;
   font-family:"方正粉丝天下简体", sans-serif;
   font-weight:400;
@@ -83,8 +83,8 @@
 #u1_img.mouseDown {
   left:0px;
   top:0px;
-  width:48px;
-  height:43px;
+  width:169px;
+  height:151px;
 }
 #u1.mouseDown {
 }
@@ -99,8 +99,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:210px;
-  height:8px;
+  width:738px;
+  height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -115,10 +115,10 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:116px;
-  top:455px;
-  width:210px;
-  height:8px;
+  left:297px;
+  top:1281px;
+  width:738px;
+  height:28px;
   display:flex;
 }
 #u2 .text {
@@ -139,8 +139,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:10px;
-  height:8px;
+  width:35px;
+  height:28px;
   background:inherit;
   background-color:rgba(255, 29, 71, 1);
   box-sizing:border-box;
@@ -155,10 +155,10 @@
 #u3 {
   border-width:0px;
   position:absolute;
-  left:116px;
-  top:455px;
-  width:10px;
-  height:8px;
+  left:297px;
+  top:1281px;
+  width:35px;
+  height:28px;
   display:flex;
 }
 #u3 .text {
